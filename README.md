@@ -44,15 +44,19 @@ There is a problem with one of the individual lots, though. If we take a look at
 ## Study Design: MechaCar vs Competition
 In our study there are many varibles for the consumers take into consideration when deciding to make a car to purchase. 
 
-* Metric to test
+* Metric to test:
+
 To narrow down our test, we should evaluate MechaCar's cost, city and highway fuel efficiency, horse power, safety rating, maintenance cost, in comparison to various competitors' vehicles.
 
-* Null and Alternate Hypothesis
+* Null and Alternate Hypothesis:
+
 H<sub>0</sub>: If MechaCar prototypes' have the same or similar performance within these categories then they will not show a difference in the competitor's vehicles in the same vehicle class
 H<sub>a</sub>: If MechaCar prototypes' show better performance within these categories then MechaCar will have a higher difference in the competitor's vehicles in the same vehicle class.
 
-* Statistical Test Used
+* Statistical Test Used:
+
 The statistical test used the two-sample t-tests.
 
-* What data is needed
+* What data is needed:
+
 We might consider using an ANOVA test to compare the MechaCar in various categories that customers would care about: cost, city and highway fuel efficiency, horse power, safety rating, maintenance cost. This test would allow us to see the if mean from multiple samples are significantly similar or different. Therefore, the averages of different cars in these categories can be compared to the average of MecaCar. This show how it is performing against its competitors, below (worse) or above (better).
